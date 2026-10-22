@@ -13,3 +13,4 @@ algopartner.rize.exchange
 www.mxlab.kr
 edgec.io
 hello-api.hitrail.eu
+front-k3s-staging.apptenticate.com
