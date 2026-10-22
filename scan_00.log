@@ -1,0 +1,159 @@
+[dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
+[dedup] on: 133 hosts in (133 probes) -> 133 unseen hosts (133 probes) | skipped 0 already-scanned probes
+======================================================================
+CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
+======================================================================
+[*] Targets: 133
+[*] Concurrency: 250 | Timeout: 8s
+[*] Output directory: res_20261022_022815
+[*] Telegram: Will send zip when complete
+[*] Vulnerable registry: vulnerable_targets_registry.txt
+----------------------------------------------------------------------
+[1/133] drexo.be - dns_or_connect_error
+[2/133] www.thepoddigital.com - dns_or_connect_error
+[3/133] dataquor.com - http_error
+[4/133] zepsongs.duckdns.org - dns_or_connect_error
+[5/133] www.mobiletyrespalmersgreen.co.uk - dns_or_connect_error
+[6/133] www.waveshift.pro - http_error
+[7/133] www-240306205.na2.prod.hubspot-at-test.com - dns_or_connect_error
+[8/133] cgrid.duckdns.org - dns_or_connect_error
+[9/133] delveline.com - http_error
+[10/133] askclive.org - http_error
+[11/133] www.mynextlinker.com - http_error
+[12/133] yxwvwww.qpnotexistsfidcbnotexistsxwvutsrqtsrqpoj3ryhemuyu1las3bb.907590755031j5c5n9ong7se5nzn.92.38.177.16.dyn.tcadmin.net - http_error
+[13/133] z3n-cypress-lotus-e81e8e20-adc2-11ec-a75d-c1e3a8aa05a1.zendesk.com - http_error
+[14/133] 00c6f9fb.sni.cloudflaressl.com - dns_or_connect_error
+[15/133] www.7d3s89gx2p7mj0i1f.whm.0976544020secure.klinkerdigital.nl - dns_or_connect_error
+[16/133] 89712e54.sni.cloudflaressl.com - dns_or_connect_error
+[17/133] www.tamara.sallapay.net - dns_or_connect_error
+[18/133] m.firstbike.ch - http_error
+[19/133] 803speedstore.com - http_error
+[20/133] barber-desk.it - http_error
+[21/133] www.abnormal.ilogoindonesia.com - dns_or_connect_error
+[22/133] www.wordcraft-academy.com - http_error
+[23/133] www.aftersekolah.com - http_error
+[24/133] studio--the-suspenders-setlist-central.us-central1.hosted.app - http_error
+[25/133] www.roombbangsignal.co.kr - http_error
+[26/133] xiaoba.dev - http_error
+[27/133] www.gettingoutofcalifornia.com - http_error
+[28/133] japan-pride-journeys.com - http_error
+[29/133] koningbet.co.uk - http_error
+[30/133] rushimehta.dev - http_error
+[31/133] imobiliariasendaimoveis.com.br - http_error
+[32/133] vintrack.peek.net.in - http_error
+[33/133] pl-cscs.com - http_error
+[34/133] 1dpir2ym.91koukou118.xyz - http_error
+[35/133] 50519c.shop - http_error
+[36/133] bopndhc.click - http_error
+[37/133] old.skillharbora.com - http_error
+[38/133] www.enduralifewellness.info - http_error
+[39/133] deadserious.business - http_error
+[40/133] kickpick.cloud - http_error
+[41/133] 316betplataforma.com - http_error
+[42/133] bijuterro.boutiqo.app - http_error
+[43/133] itemizedhealth.com - http_error
+[44/133] www.abacistbookkeepingsolutions.com - http_error
+[45/133] ditavonteeselingerieofficial.shop - http_error
+[46/133] erp.4ev.cc - http_error
+[47/133] okmy.app - http_error
+[48/133] cpanel.estisharat.sa - http_error
+[49/133] www.senaplural.ca - http_error
+[50/133] mym.4lejandrito.dev - http_error
+[51/133] www.whm.whm.whm.whm.www.nvgqzggfmrstaging.api.balatoningatlan.com - dns_or_connect_error
+[52/133] codeflowstudios.be - http_error
+[53/133] weiske.biz - dns_or_connect_error
+[54/133] legacy-carstensen.easysolutions.work - dns_or_connect_error
+[55/133] app.deinatelier.at - http_error
+[56/133] cad.technikadruku.pl - http_error
+[57/133] mhub.tw - http_error
+[58/133] www.lab.yagamifestival.com - dns_or_connect_error
+[59/133] www.human-2030.com - http_error
+[60/133] finlayandcoofficial.shop - http_error
+[61/133] hundred.com.au - http_error
+[62/133] net.moxitech.ru - http_error
+[63/133] do.edu.do.kurs.grishaznaet.fokra.ru - http_error
+[64/133] www.utwww.onmlonmlknmhcbehcnotexists98765832notexistsnotexistsnotexistsm.jvmpyshl.yaanx.in - dns_or_connect_error
+[65/133] ylsqgt8mshpnhgf.webmail1.cityclass.com - dns_or_connect_error
+[66/133] ahaimage.com - http_error
+[67/133] www.faizandkhansa.com - http_error
+[68/133] christofakis.edu.gr - http_error
+[69/133] bet45plataforma.com - http_error
+[70/133] 2sf17.cc - http_error
+[71/133] www.meblowe-strefa.pl - http_error
+[72/133] www.plecionetorby.pl - http_error
+[73/133] space-trust.com - dns_or_connect_error
+[74/133] australianflora.site - http_error
+[75/133] petracatpowers.me - http_error
+[76/133] wvviselypay.com - http_error
+[77/133] pascalpharmacy.com - http_error
+[78/133] autodiscover.ecstacyinc.battery.cam - dns_or_connect_error
+[79/133] championlubes.co.in - dns_or_connect_error
+[80/133] bst-b39c34ef-9883-43cd-8252-792e2f0db5b4-0.ussoftwareindia.info - dns_or_connect_error
+[81/133] f694ef373f77602e53c2b944.netcraze.io - http_error
+[82/133] www.ricache.com - dns_or_connect_error
+[83/133] m.jlpowersandassociates.com - unknown_timeout
+[84/133] ceraminic.cyberthreatconsortium.biz - unknown_timeout
+[85/133] performance-zrh.cg-gs.com - unknown_timeout
+[86/133] www.91zhangxinyouzhajinhua.org.ph - unknown_timeout
+[87/133] otbuae.org.ph - http_error
+[88/133] www.gclubvip8596.ph - unknown_timeout
+[89/133] www.pnpclaereance.ph - http_error
+[90/133] api.www.gqbtakpe.landingpage.at - unknown_timeout
+[91/133] www.urawa-keiseishimkin.ph - unknown_timeout
+[92/133] thebustlingtramsociety.com - unknown_timeout
+[93/133] ms3q.com - unknown_timeout
+[94/133] h11n3.de - unknown_timeout
+[95/133] divigo.alexander-tazin.online - unknown_timeout
+[96/133] n8n.apps.outatimeoyster.cloud - unknown_timeout
+[97/133] livekit.jtmilne.com - unknown_timeout
+[98/133] comicsaccess.com - unknown_timeout
+[99/133] v10store.com - unknown_timeout
+[100/133] 10-10-1-22.6jytciviodt.ddns.manage.alta.inc - unknown_timeout
+[101/133] xiaodaiwang.cn - unknown_timeout
+[102/133] 20933582-9c0f-43bb-8b1a-5edc21900876.mutuelledouane.com - unknown_timeout
+[103/133] 2023b.5ghcy.com - unknown_timeout
+[104/133] grauerburgunder.de - unknown_timeout
+[105/133] 4hw8gkaalw37.instamaid.com - unknown_timeout
+[106/133] giulio83.direct.quickconnect.to - unknown_timeout
+[107/133] jurion--vpn.wildixin.com - unknown_timeout
+[108/133] device-7868ce28-10b8-4c58-a4ea-8b9644b438a5.remotewd.com - unknown_timeout
+[109/133] eastwestimports.com - unknown_timeout
+[110/133] dev.sphere-engine.com - unknown_timeout
+[111/133] sti-astana.kz - unknown_timeout
+[112/133] grundsteuervergleich.de - unknown_timeout
+[113/133] wwt.6jbs.com - unknown_timeout
+[114/133] webdisk.mattjonescreative.com - unknown_timeout
+[115/133] 37e6b2z7hw1qsfsy.beaztfc.com - unknown_timeout
+[116/133] dozzle.sgubc.ca - unknown_timeout
+[117/133] jonathanbork.direct.quickconnect.to - unknown_timeout
+[118/133] update.update.update.4325staging.sandbox.wwwcomdev.35-204-139-184.sslip.io - unknown_timeout
+[119/133] fredremy.direct.quickconnect.to - unknown_timeout
+[120/133] wvutswww.rqponihgfidcbadcbbmlbi8765432543210frogiesarcade.dev72.ip.ngg.frogiesarcade.dev - unknown_timeout
+[121/133] nassrednas.direct.quickconnect.to - unknown_timeout
+[122/133] research.void-box.live - unknown_timeout
+[123/133] yandex.sbermegamarket.www.cdek.pochtabank.7qwcjmdid5f3x64j.dev.educationmath.ddnsgeek.com - unknown_timeout
+[124/133] vailappraisal.direct.quickconnect.to - unknown_timeout
+[125/133] u69tx93tb0pnfjv6.bankofsouth.com - unknown_timeout
+[126/133] v9hpblapfnrc15tr.myfritz.net - unknown_timeout
+[127/133] benk-server.direct.quickconnect.to - unknown_timeout
+[128/133] tdjx-ds1821.synology.me - unknown_timeout
+[129/133] sdgz.nl - unknown_timeout
+[130/133] ftp.csyir7eoy.service.one - unknown_timeout
+[131/133] 911286.cc - unknown_timeout
+[132/133] tyra.sxfsbts.com - unknown_timeout
+[133/133] 925cc004.x7tev.top - unknown_timeout
+
+======================================================================
+[*] Scan complete!
+    Total scanned: 133
+    Vulnerable: 0
+    Failed: 0
+[+] Results saved in: res_20261022_022815
+
+[*] Analyzing results...
+    Found 0 targets with critical keys
+[+] Summary saved: res_20261022_022815/_summary_20261022_022936.txt
+
+[*] Zipping results folder...
+    Created: res_20261022_022815.zip (0.0 MB)
+    Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
