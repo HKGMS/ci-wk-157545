@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T04:50:47.345455
+Total: 374
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 100, "http_error": 176, "unknown_timeout": 97, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - pan_giranli_ovh_20261022_044920.json
