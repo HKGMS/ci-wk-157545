@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T06:22:45.144489
+Total: 381
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 68, "http_error": 262, "unknown_timeout": 51}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - pangolin_noez_be_20261022_062115.json
