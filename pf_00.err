@@ -1,11 +1,3 @@
-# progress 3696/9860 246 hosts/s eta 25s
-# progress 7800/9860 260 hosts/s eta 7s
-# progress 9860/9860 219 hosts/s eta 0s
-# progress 9860/9860 164 hosts/s eta 0s
-# progress 9860/9860 131 hosts/s eta 0s
-# progress 9860/9860 109 hosts/s eta 0s
-# progress 9860/9860 94 hosts/s eta 0s
-# progress 9860/9860 82 hosts/s eta 0s
-# progress 9860/9860 73 hosts/s eta 0s
-# progress 9860/9860 66 hosts/s eta 0s
-# prefilter: 243/9860 nextjs (pass2_recovered=19/2111, unproven_passed=150, unproven_capped=1430)
+# progress 9485/9493 630 hosts/s eta 0s
+# progress 9493/9493 316 hosts/s eta 0s
+# prefilter: 38/9493 nextjs (pass2_recovered=2/267, unproven_passed=150, unproven_capped=27)
