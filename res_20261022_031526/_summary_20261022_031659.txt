@@ -1,0 +1,20 @@
+Scan Summary
+============
+Date: 2026-10-22T03:16:59.863912
+Total: 371
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 116, "http_error": 137, "unknown_timeout": 117, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - app_correaflowproton_cloud_20261022_031530.json
+  - turyapad_com_20261022_031529.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: app.correaflowproton.cloud
+  🔑 DATABASE_URL: [REDACTED]
