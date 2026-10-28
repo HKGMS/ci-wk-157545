@@ -1,55 +1,68 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 487 hosts in (489 probes) -> 29 unseen hosts (29 probes) | skipped 460 already-scanned probes
+[dedup] on: 478 hosts in (480 probes) -> 42 unseen hosts (42 probes) | skipped 438 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 29
+[*] Targets: 42
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000247
+[*] Output directory: res_20261028_000113
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/29] 00c6f9fb.sni.cloudflaressl.com - dns_or_connect_error
-[2/29] www.tokekwinrtp.pics - http_error
-[3/29] twww.www.kjilkjidcbmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[4/29] xcellencetrack.space - http_error
-[5/29] ruckus.grc-scm.comcast.net - http_error
-[6/29] kepland.com.ph - http_error
-[7/29] old.skillharbora.com - http_error
-[8/29] codeflowstudios.be - http_error
-[9/29] granalier.terasync.tera.ar - http_error
-[10/29] 3x.valiticket.com - http_error
-[11/29] speedmas.com - dns_or_connect_error
-[12/29] kuma.schaer.cam - http_error
-[13/29] www.angolo1.com - http_error
-[14/29] www.vilkaviskiobaseinas.lt - http_error
-[15/29] www.krzeslotapicerowane.pl - http_error
-[16/29] m.aberropia.com - http_error
-[17/29] freepanelhosting.online - http_error
-[18/29] autodiscover.ecstacyinc.battery.cam - http_error
-[19/29] www.artichotel.com - http_error
-[20/29] m.starksmartcare.com - unknown_timeout
-[21/29] 02223.de - unknown_timeout
-[22/29] pve02.roste.org - unknown_timeout
-[23/29] k0igg0ecdevelopment-flowiseai.aeatnamedicare.com.young-turtle-38.telebit.io - unknown_timeout
-[24/29] allphallegal.com - unknown_timeout
-[25/29] las1.blackicecrm.com - unknown_timeout
-[26/29] www.02129.de - unknown_timeout
-[27/29] vailappraisal.direct.quickconnect.to - unknown_timeout
-[28/29] dizerens.net - unknown_timeout
-[29/29] www.tumen.geo-ground.ru - unknown_timeout
+[1/42] www.drconfidential.com - dns_or_connect_error
+[2/42] www.souqgadgetsmall.com - dns_or_connect_error
+[3/42] peach.finance - http_error
+[4/42] 5ea98296.sni.cloudflaressl.com - dns_or_connect_error
+[5/42] email.ask.ghltutor.com - dns_or_connect_error
+[6/42] t0rpwjqstjihgfedcbaupdate.98765be6191f5-7f66-434b-aa40-8af02a17684a.supertutorlc.com - dns_or_connect_error
+[7/42] www.fredricksf.ph - http_error
+[8/42] www.idealbusinessopportunity.ph - http_error
+[9/42] roasterscoffeecorner.ph - http_error
+[10/42] otbuae.org.ph - http_error
+[11/42] casino111.com.ph - http_error
+[12/42] brandisc.com - http_error
+[13/42] test.weddingplaner-studio.de - dns_or_connect_error
+[14/42] ytsrupsrqponm187ab1e208a3000e.tsrvzwdb.vutsrqlkjihcbedcnotexists98761shop.notexists7baip43fi378g9vb.aicoelektronik.com - dns_or_connect_error
+[15/42] qwww.lkjilkfedgbegzijyqec.wzulqcbdvny.srmlkjidonmlkfedvrcqh654cb0efb4e05-0c96-4156-b771-a34d78af1bbe.yektasaka.org - dns_or_connect_error
+[16/42] zzjp-077.my.commercecloud.salesforce.com - http_error
+[17/42] movetobrenvo.com - http_error
+[18/42] lightshore.online - http_error
+[19/42] impresa100.com - http_error
+[20/42] nono4dcenter.com - http_error
+[21/42] tyja.devmountain.com - http_error
+[22/42] www.dazhengxuan.com - http_error
+[23/42] connections.girtman.com - http_error
+[24/42] ftp.ga-ma.battery.cam - unknown_timeout
+[25/42] app.vinnventure.com - http_error
+[26/42] nassrednas.direct.quickconnect.to - unknown_timeout
+[27/42] www.lab.yagamifestival.com - unknown_timeout
+[28/42] mandreae.scrippsprofiles.ucsd.edu - unknown_timeout
+[29/42] d2xie.scrippsprofiles.ucsd.edu - unknown_timeout
+[30/42] tcapaldi.scrippsprofiles.ucsd.edu - unknown_timeout
+[31/42] ms3q.com - unknown_timeout
+[32/42] kardiologe-hannover.de - unknown_timeout
+[33/42] device-dce97756-56a3-4fc9-9d35-c404373cc564.remotewd.com - unknown_timeout
+[34/42] u6iymljm4vykiz3w.shopmaternityclothes.com - unknown_timeout
+[35/42] ww38.delightedbeauty.org - unknown_timeout
+[36/42] dennisadb.direct.quickconnect.to - unknown_timeout
+[37/42] git.quietpolarlab.com - unknown_timeout
+[38/42] compliance.socalert.net - unknown_timeout
+[39/42] domosmart-castro.duckdns.org - unknown_timeout
+[40/42] device-local-4734407c-8a2c-48d2-8557-296d8f24383f.remotewd.com - unknown_timeout
+[41/42] u5sajhnwk2lzyhip.alixkz.com - unknown_timeout
+[42/42] amulez.direct.quickconnect.to - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 29
+    Total scanned: 42
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000247
+[+] Results saved in: res_20261028_000113
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000247/_summary_20261024_000407.txt
+[+] Summary saved: res_20261028_000113/_summary_20261028_000234.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000247.zip (0.0 MB)
+    Created: res_20261028_000113.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)

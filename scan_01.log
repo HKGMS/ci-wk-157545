@@ -1,62 +1,41 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 458 hosts in (462 probes) -> 36 unseen hosts (36 probes) | skipped 426 already-scanned probes
+[dedup] on: 454 hosts in (458 probes) -> 15 unseen hosts (15 probes) | skipped 443 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 36
+[*] Targets: 15
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000247
+[*] Output directory: res_20261028_000113
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/36] courtneyhandlphotography.com - http_error
-[2/36] it.derriedmichl.com - http_error
-[3/36] xrvemiou.mttaborpreschool.org - dns_or_connect_error
-[4/36] mwww.pojmhgfmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[5/36] docs.samplehc.com - http_error
-[6/36] liveticker.cloud - http_error
-[7/36] www.www.notexistsyriigf0dbf0db90860977260421086ap-northeast-1.vpce.amazonmap.medellin.onl - dns_or_connect_error
-[8/36] www.happycrafts.ph - http_error
-[9/36] www.xn--sprimgglobalmil-gkb.ph - http_error
-[10/36] livohub.kolivo.org - http_error
-[11/36] www.joverflowsolutione.com.ph - http_error
-[12/36] www.planencende.online - dns_or_connect_error
-[13/36] photo.10bricks.ru - dns_or_connect_error
-[14/36] kdex.top - http_error
-[15/36] argocd.qa.mpro.greencapehealth.com - http_error
-[16/36] net.zoltech.ru - dns_or_connect_error
-[17/36] devlethaber.com.tr - http_error
-[18/36] 4www.3duyyoabndnw3q59aila3ycz4x9.cse.casl.cal.msu.edu - http_error
-[19/36] mail.erimashop.ba - unknown_timeout
-[20/36] truck-servis.ru - unknown_timeout
-[21/36] landing.xn--shoppingbrse-djb.com - unknown_timeout
-[22/36] dpppan.direct.quickconnect.to - unknown_timeout
-[23/36] www.hgbahgfadmin.adminer.dotsgroup.euuat.wwwtkdev.35-204-139-184.sslip.io - unknown_timeout
-[24/36] www.adultxxxvids.com - unknown_timeout
-[25/36] admin.zenma.top - unknown_timeout
-[26/36] trustpathway.pro - unknown_timeout
-[27/36] instructor.cryptopedia.co.id - unknown_timeout
-[28/36] kosmetische-zahnkorrektur.de - unknown_timeout
-[29/36] dcno.com - unknown_timeout
-[30/36] device-local-70e04769-ef11-402f-a7bd-c996071e3575.remotewd.com - unknown_timeout
-[31/36] device-2aa67224-91bd-442e-95bb-c654fcfbccc8.remotewd.com - unknown_timeout
-[32/36] chehuan.cn - unknown_timeout
-[33/36] www.hgfadclivetritonapartmentsfostercity.comww.young-turtle-38.telebit.io - unknown_timeout
-[34/36] moodularoffice.direct.quickconnect.to - unknown_timeout
-[35/36] www.tula.polyster.ru - unknown_timeout
-[36/36] 925dw888.lhz3t.top - unknown_timeout
+[1/15] cf6ca59e.sni.cloudflaressl.com - dns_or_connect_error
+[2/15] www.altay-pilorama.ru - dns_or_connect_error
+[3/15] staging.danielandelaine.net - http_error
+[4/15] iixi.cc - http_error
+[5/15] burninglovebendigo.com - http_error
+[6/15] www.berenturizm.com.tr - http_error
+[7/15] unknown-75-37.battery.cam - dns_or_connect_error
+[8/15] backend.drpujabalchandani.com - dns_or_connect_error
+[9/15] 207.199.150.150.nni.net - http_error
+[10/15] awnedgla.casa - unknown_timeout
+[11/15] autodiscover.nlem.battery.cam - http_error
+[12/15] www.3tggrrherfuckingnigger.151.80.60.23.sslip.io - unknown_timeout
+[13/15] pouchoncloud.direct.quickconnect.to - unknown_timeout
+[14/15] nalozhka.sbermegamarket.nalozhka.comww.806awxtsxod3awb.qa3oohhkr7xminn.shopify.autofarba.com - unknown_timeout
+[15/15] connect.luckyrollers.one - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 36
+    Total scanned: 15
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000247
+[+] Results saved in: res_20261028_000113
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000247/_summary_20261024_000407.txt
+[+] Summary saved: res_20261028_000113/_summary_20261028_000233.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000247.zip (0.0 MB)
+    Created: res_20261028_000113.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
